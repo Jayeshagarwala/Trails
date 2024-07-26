@@ -44,6 +44,13 @@ The community page helps connect people they may find helpful. It is a central h
 - **User Profiles:** Detailed profiles to help users find and connect with like-minded individuals.
 - **Networking Opportunities:** Facilitates connections between students, alumni, and professionals.
 
+### Sign-In Feature
+
+The sign-in feature uses Google authentication through NextAuth.js, allowing users to securely log in to the platform with their Google accounts. This integration simplifies the login process and ensures secure access to the platform.
+
+- **Google Authentication:** Users can sign in using their Google accounts, providing a streamlined and secure authentication process.
+- **NextAuth.js:** Manages authentication flows and sessions, ensuring that user data is protected and accessible only to authorized users.
+
 ### Backend Database
 
 The backend database is hosted on Azure PostgreSQL, which ensures data integrity and security. We also use Redis for caching and real-time updates, ensuring a smooth user experience.
@@ -61,6 +68,7 @@ The backend database is hosted on Azure PostgreSQL, which ensures data integrity
 - **TypeScript:** A typed superset of JavaScript that helps catch errors early and ensures better code quality.
 - **Redux:** A state management tool to manage the application's state in a predictable way.
 - **Vercel:** A platform for frontend developers, providing hosting and serverless functions.
+- **NextAuth.js:** Provides secure authentication using Google accounts.
 
 ### Backend
 
