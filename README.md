@@ -1,5 +1,7 @@
 # Trails
 
+**Note:** The code for this project is private and confidential; thus, it cannot be shared. However, you can explore the live website for a detailed understanding of the functionality.
+
 Welcome to the Trails repository! This project aims to centralize university resources and provide a seamless experience for students seeking information about the application process, academic planning, and campus life. The platform uses AI to ensure students receive accurate and timely answers to their questions.
 
 ## Overview
@@ -67,4 +69,3 @@ The backend database is hosted on Azure PostgreSQL, which ensures data integrity
 - **Prisma ORM:** An open-source database toolkit that simplifies database access with an auto-generated query builder for TypeScript and Node.js.
 
 
-**Note:** The code for this project is private and confidential; thus, it cannot be shared. However, you can explore the live website for a detailed understanding of the functionality.
