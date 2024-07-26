@@ -8,7 +8,7 @@ Trails is designed to revolutionize the university experience by bridging commun
 
 ### Website
 
-Check out the [Trails website](https://www.trails.com) to see the platform in action.
+Check out the [Trails website](https://www.trailscommunity.com) to see the platform in action.
 
 ## Features
 
